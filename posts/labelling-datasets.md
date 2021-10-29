@@ -1,8 +1,8 @@
 ---
-title: 'Python Book Review'
-date: 'March 7, 2021'
-excerpt: 'In this review, we will be looking at the new Python book from Oriley'
-cover_image: '/images/posts/img6.jpg'
+title: 'Data Labelling is Not Trivial'
+date: 'September 22, 2021'
+excerpt: 'A note on why dataset labelling is more complicated and more critical than you might think.'
+cover_image: '/images/posts/img3.jpg'
 ---
 
 Lorem markdownum fine incustoditam unda factura versum occuluere Aeneas, iuvat
@@ -12,11 +12,11 @@ verba caput ferarum _nubila_? Patriam Cyparisse tamen, **saxum** fide postponere
 pavida ne omnes etiam, atque. Sonuit omina sed sine haerebat illic fit a mora
 in.
 
-1. Serrae enim Etruscam aquis
-2. Et premis et flumine frontem minatur oppressos
-3. Inquam rector Icarus possum vim tumulo propiusque
-4. Vulnus se Latreus
-5. Aptumque bis
+    1. Serrae enim Etruscam aquis
+    2. Et premis et flumine frontem minatur oppressos
+    3. Inquam rector Icarus possum vim tumulo propiusque
+    4. Vulnus se Latreus
+    5. Aptumque bis
 
 ## Turpius Aegides membris colat volentes fallere
 
@@ -55,3 +55,5 @@ capillos ego rapi Bootes, sculpsit. Protinus sibi denique sibi primum Acheloides
 ante exspectant gaudeat Calydonius cernit, duxit pariterque dolet epulis? Nostri
 visae nisi aeripedes stant quem saepibus cannis protectus candens praestet:
 porrigar **patriam** Alcmene: attonitas.
+
+$$ x^2 + y^2 $$

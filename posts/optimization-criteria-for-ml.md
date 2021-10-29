@@ -1,7 +1,7 @@
 ---
-title: 'Django Crash Course'
-date: 'March 5, 2021'
-excerpt: 'Django is a very powerful, high level Python framework for building web applications'
+title: 'Optimization Criteria for ML'
+date: 'October 30, 2021'
+excerpt: 'Considerations when defining the overall optimization criteria for an ML pipeline.'
 cover_image: '/images/posts/img3.jpg'
 ---
 

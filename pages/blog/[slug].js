@@ -10,21 +10,21 @@ export default function PostPage({
   content,
 }) {
   return (
-    <>
+    <div className="single-post">
       <Link href='/'>
-        <a className='btn btn-back'>Go Back</a>
+        <a className='btn btn-back'>Back</a>
       </Link>
       <div className='card card-page'>
         <h1 className='post-title'>{title}</h1>
         <div className='post-date'>Posted on {date}</div>
         <img src={cover_image} alt='' />
-        <div className='post-date'>{cover_image_caption}</div>
-        <div className='post-body'>by {author}</div>
+        <div className='post-image-caption'>{cover_image_caption}</div>
+        <div className='post-author'>by {author}</div>
         <div className='post-body'>
           <div dangerouslySetInnerHTML={{ __html: marked(content) }}></div>
         </div>
       </div>
-    </>
+    </div>
   )
 }
 
