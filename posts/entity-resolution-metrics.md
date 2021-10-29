@@ -1,5 +1,5 @@
 ---
-title: 'Rethinking Metrics for Entity Resolution Problems'
+title: 'Metrics for Entity Resolution'
 date: 'October 29, 2021'
 excerpt: 'A set of metrics to more accurately represent the performance of entity resolution algorithms.'
 cover_image: '/images/posts/img3.jpg'
