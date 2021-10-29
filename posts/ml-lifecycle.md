@@ -1,6 +1,6 @@
 ---
-title: 'Django Crash Course'
-date: 'March 5, 2021'
+title: 'ML Lifecycle'
+date: 'Oct 27, 2021'
 excerpt: 'Django is a very powerful, high level Python framework for building web applications'
 cover_image: '/images/posts/img3.jpg'
 ---
@@ -12,11 +12,11 @@ verba caput ferarum _nubila_? Patriam Cyparisse tamen, **saxum** fide postponere
 pavida ne omnes etiam, atque. Sonuit omina sed sine haerebat illic fit a mora
 in.
 
-    1. Serrae enim Etruscam aquis
-    2. Et premis et flumine frontem minatur oppressos
-    3. Inquam rector Icarus possum vim tumulo propiusque
-    4. Vulnus se Latreus
-    5. Aptumque bis
+1. Serrae enim Etruscam aquis
+2. Et premis et flumine frontem minatur oppressos
+3. Inquam rector Icarus possum vim tumulo propiusque
+4. Vulnus se Latreus
+5. Aptumque bis
 
 ## Turpius Aegides membris colat volentes fallere
 
@@ -25,10 +25,12 @@ consequitur et quoque scinditque in. Ratis laborum instabat quaedam partem
 Phoebus, manus _partibus poenas_. Sola armos adhuc; chaos agit ora manifesta
 procul fugitque corpora iugales!
 
-    var ethics_font_drive = cycleSystemProgram + deprecatedTransferIp.ide(3) /
-            rgb + nybbleBaseband;
-    permalinkCertificateMacintosh(ergonomicsIsdnDns);
-    boot = bridgeDaemonActive;
+```python
+var ethics_font_drive = cycleSystemProgram + deprecatedTransferIp.ide(3) /
+        rgb + nybbleBaseband;
+permalinkCertificateMacintosh(ergonomicsIsdnDns);
+boot = bridgeDaemonActive;
+```
 
 ## O contra diu
 
@@ -56,4 +58,4 @@ ante exspectant gaudeat Calydonius cernit, duxit pariterque dolet epulis? Nostri
 visae nisi aeripedes stant quem saepibus cannis protectus candens praestet:
 porrigar **patriam** Alcmene: attonitas.
 
-$$ x^2 + y^2 $$
+

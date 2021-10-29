@@ -7,7 +7,9 @@
 }
 
 body {
-  font-family: 'Poppins', sans-serif;
+  font-family: 'Roboto Condensed', sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
 }
 
 p {
@@ -22,7 +24,7 @@ a {
 
 img {
   width: 100%;
-  border-radius: 10px;
+  border-radius: 4px;
 }
 
 header {
@@ -49,7 +51,7 @@ header a {
   color: #fff;
   border: none;
   padding: 8px 16px;
-  border-radius: 5px;
+  border-radius: 4px;
   cursor: pointer;
   text-decoration: none;
   font-size: 15px;
@@ -79,8 +81,8 @@ header a {
 
 .card {
   padding: 15px;
-  border-radius: 10px;
-  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+  border-radius: 5px;
+  box-shadow: 0 2px 6px 0 rgba(0, 0, 0, 0.2);
 }
 
 .card-page {
@@ -99,10 +101,11 @@ header a {
 
 .post-body ul,
 ol {
-  font-size: 110%;
-  line-height: 2.3;
-  font-weight: bold;
+  font-size: 100%;
+  line-height: 1.5;
+  /* font-weight: bold; */
   margin: 10px 0;
+  padding-left: 30px;
 }
 
 .post-body pre {
