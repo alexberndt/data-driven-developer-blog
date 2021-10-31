@@ -1,8 +1,8 @@
 ---
 title: 'The Value of Algorithms'
-date: 'September 2, 2021'
+date: 'Sep 2, 2021'
 excerpt: '.'
-cover_image: '/images/posts/img3.jpg'
+cover_image: '/images/posts/1.jpg'
 cover_image_caption: 'Entity Resolution is a very common ML problem.'
 author: 'Alex Berndt'
 ---

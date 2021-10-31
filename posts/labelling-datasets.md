@@ -1,8 +1,9 @@
 ---
 title: 'Data Labelling is Not Trivial'
-date: 'September 22, 2021'
+date: 'Sep 22, 2021'
 excerpt: 'A note on why dataset labelling is more complicated and more critical than you might think.'
-cover_image: '/images/posts/img3.jpg'
+cover_image: '/images/posts/3.jpg'
+author: 'Alex Berndt'
 ---
 
 Lorem markdownum fine incustoditam unda factura versum occuluere Aeneas, iuvat

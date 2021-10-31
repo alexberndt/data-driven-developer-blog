@@ -1,8 +1,9 @@
 ---
 title: 'Optimization Principals Applied to ML'
-date: 'September 19, 2021'
+date: 'Sep 19, 2021'
 excerpt: 'Considerations when defining the overall optimization criteria for an ML pipeline.'
-cover_image: '/images/posts/img3.jpg'
+cover_image: '/images/posts/5.jpg'
+author: 'Alex Berndt'
 ---
 
 Lorem markdownum fine incustoditam unda factura versum occuluere Aeneas, iuvat
@@ -55,5 +56,3 @@ capillos ego rapi Bootes, sculpsit. Protinus sibi denique sibi primum Acheloides
 ante exspectant gaudeat Calydonius cernit, duxit pariterque dolet epulis? Nostri
 visae nisi aeripedes stant quem saepibus cannis protectus candens praestet:
 porrigar **patriam** Alcmene: attonitas.
-
-$$ x^2 + y^2 $$

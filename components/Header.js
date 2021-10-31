@@ -5,7 +5,7 @@ export default function Header() {
     <header>
       <div className='container'>
         <Link href='/' passHref>
-          <h2>Random Regressive Ramblings</h2>
+          <h2>Blog</h2>
         </Link>
       </div>
     </header>

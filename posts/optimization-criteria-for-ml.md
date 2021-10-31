@@ -1,8 +1,9 @@
 ---
 title: 'Optimization Criteria for ML'
-date: 'October 30, 2021'
+date: 'Oct 30, 2021'
 excerpt: 'Considerations when defining the overall optimization criteria for an ML pipeline.'
-cover_image: '/images/posts/img3.jpg'
+cover_image: '/images/posts/4.jpg'
+author: 'Alex Berndt'
 ---
 
 Lorem markdownum fine incustoditam unda factura versum occuluere Aeneas, iuvat

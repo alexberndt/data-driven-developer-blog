@@ -5,7 +5,7 @@ export default function Footer() {
     <footer>
       <div className='container'>
         <p>by Alex Berndt</p>
-        <p>Random Regressive Ramblings</p>
+        <p>Blog</p>
       </div>
     </footer>
   )
