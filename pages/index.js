@@ -8,8 +8,22 @@ import { sortByDate } from '../utils'
 export default function Home({ posts }) {
   return (
     <div>
+
       <Head>
-        <title>Hello</title>
+        <title>Blog</title>
+        <meta property="twitter:image" content="<%= BASE_URL %>og.jpg" />
+        <meta property='og:title' content='Blog on Machine Learning, AI and Optimization'/>
+        <meta property='og:image' content='https://blog.alexberndt.com/og.jpg'/>
+        <meta property='og:description' content='Some notes and ideas on machine learning, AI and the challenges they present in terms of scalability, productization and algorithm complexity.'/>
+        <meta property='og:url' content='https://blog.alexberndt.com/'/>
+        <meta property="og:type" content="website"/>
+
+        <meta name="twitter:card" content="summary_large_image"/>
+        <meta property="twitter:domain" content="blog.alexberndt.com"/>
+        <meta property="twitter:url" content="https://blog.alexberndt.com/"/>
+        <meta name="twitter:title" content="Blog on Machine Learning, AI and Optimization"/>
+        <meta name="twitter:description" content="Some notes and ideas on machine learning, AI and the challenges they present in terms of scalability, productization and algorithm complexity. "/>
+        <meta name="twitter:image" content="https://blog.alexberndt.com/og.jpg"/>
       </Head>
 
       <div className='posts'>
@@ -17,6 +31,7 @@ export default function Home({ posts }) {
           <Post key={index} post={post} />
         ))}
       </div>
+
     </div>
   )
 }
