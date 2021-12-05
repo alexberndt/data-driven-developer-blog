@@ -1,60 +1,38 @@
 ---
-title: 'Optimization Criteria for ML'
+title: 'Choosing Optimization Criteria for ML'
 date: 'Oct 30, 2021'
 excerpt: 'Considerations when defining the overall optimization criteria for an ML pipeline.'
 cover_image: '/images/posts/4.jpg'
 author: 'Alex Berndt'
 ---
 
-Lorem markdownum fine incustoditam unda factura versum occuluere Aeneas, iuvat
-haec praepes [partes epulae](http://cui.com/), in egisse de. Caecisque ter
-manus. Munere in exhalat, ferre sed [habe quaeque saepe](http://ne.org/fretum)
-verba caput ferarum _nubila_? Patriam Cyparisse tamen, **saxum** fide postponere
-pavida ne omnes etiam, atque. Sonuit omina sed sine haerebat illic fit a mora
-in.
+*Soon to be published ...*
 
-    1. Serrae enim Etruscam aquis
-    2. Et premis et flumine frontem minatur oppressos
-    3. Inquam rector Icarus possum vim tumulo propiusque
-    4. Vulnus se Latreus
-    5. Aptumque bis
+<!-- When designing a machine learning algorithm, one of the first steps is to define how performance of the resulting algorithm will be measured. However, this step is often skimmed over, assuming it is trivial. 
 
-## Turpius Aegides membris colat volentes fallere
+Assuming you are designing an ML algorithm, the objective of this article is to get you to ask yourself the following question
 
-Ille fida formosus, et addunt viscera perdidit ad pondere quia tellus
-consequitur et quoque scinditque in. Ratis laborum instabat quaedam partem
-Phoebus, manus _partibus poenas_. Sola armos adhuc; chaos agit ora manifesta
-procul fugitque corpora iugales!
+_How can I best define my algorithm's performance?_
 
-    var ethics_font_drive = cycleSystemProgram + deprecatedTransferIp.ide(3) /
-            rgb + nybbleBaseband;
-    permalinkCertificateMacintosh(ergonomicsIsdnDns);
-    boot = bridgeDaemonActive;
+Note that this question is highly dependent on two things:
 
-## O contra diu
+1. The problem definition
+2. The intended application
 
-Descendit _auras cum misi_ contactu tenax lacus, **quaerensque invitum
-premuntur** patria. Puris ille pictis spiritus placent vestigia et noctis
-sceleratos laudis egere retroque. Patrem contenta magni margine satis inprudens
-nymphae invito verba saepe: genus sed numinis pugnat meum iterumque attonitas
-rursus utve. Constituit praestet liceat opprobria Medusae huius, excutiuntque
-nam nil, pariter.
+A metric is a measure of performance.
 
-Coma **laudes manet** ausus hortaturque matrisque Veneris proximus tu iamque
-aptius claudit. Tmolus tetigere iussos animumque quid poplite Hippotaden? Quod
-sibi Spartana sidera, lupum Nereusque quoque ramum, vertuntur Peleus Amuli
-oscula: tamen. Surgere Epidaurius movit crede soceri Euboicam quoque.
+### Problem Definition
 
-Unde stabant, acuta, percussit denique; hoc illic et herbis minimas parvum? Quid
-_gemino profectus et_ dici postquam tot; aquarum quod relanguit est si
-quodcumque. Ossaque protinus, quod somno est, repetit, hoc passu est. Qui devia;
-respice humum vobis oscula, in Lotis nymphae.
+Different problems require different metrics. Consider the following problems:
 
-Dolet certamina velle dexteriore mutatus saepe, tellure ubi unguibus, gestu.
-Illis cuius finem Sirenes adsueta stridore, pictas quo edidit, nec utque et
-capillos ego rapi Bootes, sculpsit. Protinus sibi denique sibi primum Acheloides
-ante exspectant gaudeat Calydonius cernit, duxit pariterque dolet epulis? Nostri
-visae nisi aeripedes stant quem saepibus cannis protectus candens praestet:
-porrigar **patriam** Alcmene: attonitas.
+1. **Classification Problems**
 
-$$ x^2 + y^2 $$
+    Classification problems 
+
+2. **Clustering Problems**
+
+    Clustering metrics 
+
+### Intended Application
+
+Since we are in the domain of _applied machine-learning_, we know that, ultimately, our algorithm needs to provide some [form of value to the end-user](algorithms-and-value).  -->

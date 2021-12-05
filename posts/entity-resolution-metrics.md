@@ -7,7 +7,10 @@ cover_image_caption: 'Entity Resolution is a very common ML problem.'
 author: 'Alex Berndt'
 ---
 
-# Introduction to Entity Resolution
+
+*Soon to be published ...*
+
+<!-- # Introduction to Entity Resolution
 
 Entity resolution (ER) involves the identification of data-points referring to
   the same item.
@@ -42,4 +45,4 @@ The _objective_ of metrics is to quantify the quality
 # References
 
 1. _https://www.districtdatalabs.com/basics-of-entity-resolution_
-2. "End-to-End Entity Resolution for Big Data: A Survey" by Chrisophidis et al. 2019.
+2. "End-to-End Entity Resolution for Big Data: A Survey" by Chrisophidis et al. 2019. -->

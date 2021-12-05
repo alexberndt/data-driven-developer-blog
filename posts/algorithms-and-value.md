@@ -1,59 +1,33 @@
 ---
 title: 'The Value of Algorithms'
 date: 'Sep 2, 2021'
-excerpt: '.'
+excerpt: "Why optimizing an ML algorithm's performance is not necessarily the same as optimizing the value that algorithm creates."
 cover_image: '/images/posts/1.jpg'
 cover_image_caption: 'Entity Resolution is a very common ML problem.'
 author: 'Alex Berndt'
 ---
 
-Lorem markdownum fine incustoditam unda factura versum occuluere Aeneas, iuvat
-haec praepes [partes epulae](http://cui.com/), in egisse de. Caecisque ter
-manus. Munere in exhalat, ferre sed [habe quaeque saepe](http://ne.org/fretum)
-verba caput ferarum _nubila_? Patriam Cyparisse tamen, **saxum** fide postponere
-pavida ne omnes etiam, atque. Sonuit omina sed sine haerebat illic fit a mora
-in.
+*Soon to be published ...*
 
-    1. Serrae enim Etruscam aquis
-    2. Et premis et flumine frontem minatur oppressos
-    3. Inquam rector Icarus possum vim tumulo propiusque
-    4. Vulnus se Latreus
-    5. Aptumque bis
+<!-- A common theme in data science is a passion for algorithms, models and complicated mathematical models.
 
-## Turpius Aegides membris colat volentes fallere
+Although these are all great, I would propose that any data scientist or machine learning engineer should approach their role as a problem solver, which has data to help them do this.
 
-Ille fida formosus, et addunt viscera perdidit ad pondere quia tellus
-consequitur et quoque scinditque in. Ratis laborum instabat quaedam partem
-Phoebus, manus _partibus poenas_. Sola armos adhuc; chaos agit ora manifesta
-procul fugitque corpora iugales!
+**When you are a hammer, you see everything as a nail.**
 
-    var ethics_font_drive = cycleSystemProgram + deprecatedTransferIp.ide(3) /
-            rgb + nybbleBaseband;
-    permalinkCertificateMacintosh(ergonomicsIsdnDns);
-    boot = bridgeDaemonActive;
+As data scientists, we should approach problems without even considering the data as the starting point, and then slowly using more and more data as we need it (as an increase in performance is required).
 
-## O contra diu
+Essentially, this article is the **start simple** version of the data science domain.
 
-Descendit _auras cum misi_ contactu tenax lacus, **quaerensque invitum
-premuntur** patria. Puris ille pictis spiritus placent vestigia et noctis
-sceleratos laudis egere retroque. Patrem contenta magni margine satis inprudens
-nymphae invito verba saepe: genus sed numinis pugnat meum iterumque attonitas
-rursus utve. Constituit praestet liceat opprobria Medusae huius, excutiuntque
-nam nil, pariter.
+If you can solve the problem _without_ data, do so!  Why? Data is inherently noisy, messy and requires an entire infrastructure to be managed. If you achieve your end-goal without using data, then just don't use it. 
 
-Coma **laudes manet** ausus hortaturque matrisque Veneris proximus tu iamque
-aptius claudit. Tmolus tetigere iussos animumque quid poplite Hippotaden? Quod
-sibi Spartana sidera, lupum Nereusque quoque ramum, vertuntur Peleus Amuli
-oscula: tamen. Surgere Epidaurius movit crede soceri Euboicam quoque.
+Just because you are a data scientist, doesn't mean you have to use data whenever you solve a problem.
 
-Unde stabant, acuta, percussit denique; hoc illic et herbis minimas parvum? Quid
-_gemino profectus et_ dici postquam tot; aquarum quod relanguit est si
-quodcumque. Ossaque protinus, quod somno est, repetit, hoc passu est. Qui devia;
-respice humum vobis oscula, in Lotis nymphae.
+Rather, see data as _one of many_ tools in your _toolbox_, and use the appropriate tools to solve the problem.
 
-Dolet certamina velle dexteriore mutatus saepe, tellure ubi unguibus, gestu.
-Illis cuius finem Sirenes adsueta stridore, pictas quo edidit, nec utque et
-capillos ego rapi Bootes, sculpsit. Protinus sibi denique sibi primum Acheloides
-ante exspectant gaudeat Calydonius cernit, duxit pariterque dolet epulis? Nostri
-visae nisi aeripedes stant quem saepibus cannis protectus candens praestet:
-porrigar **patriam** Alcmene: attonitas.
+
+Always start with the simplest case:
+
+if you can use just a simple transformation, and obtain acceptable results, without an machine-learning whatsoever, use that! Simple algorithms are inherently more robust, and should almost always be favored over more complicated approaches.
+
+Of course, the assumption here being that your test data is sufficiently representative of your final use case. -->
