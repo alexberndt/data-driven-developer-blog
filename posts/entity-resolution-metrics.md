@@ -35,12 +35,7 @@ A typical approach for entity resolution, as proposed in
 The _objective_ of metrics is to quantify the quality
   of an algorithm's prediction compared to a ground truth.
 
-
-
-
 # Newly Proposed Metrics
-
-
 
 # References
 

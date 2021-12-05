@@ -25,7 +25,6 @@ Just because you are a data scientist, doesn't mean you have to use data wheneve
 
 Rather, see data as _one of many_ tools in your _toolbox_, and use the appropriate tools to solve the problem.
 
-
 Always start with the simplest case:
 
 if you can use just a simple transformation, and obtain acceptable results, without an machine-learning whatsoever, use that! Simple algorithms are inherently more robust, and should almost always be favored over more complicated approaches.
