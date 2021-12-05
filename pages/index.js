@@ -10,7 +10,7 @@ export default function Home({ posts }) {
     <div>
 
       <Head>
-        <title>Blog</title>
+        <title>Data Driven Developer</title>
         <meta property="twitter:image" content="<%= BASE_URL %>og.jpg" />
         <meta property='og:title' content='Blog on Machine Learning, AI and Optimization'/>
         <meta property='og:image' content='https://blog.alexberndt.com/og.jpg'/>
@@ -25,6 +25,10 @@ export default function Home({ posts }) {
         <meta name="twitter:description" content="Some notes and ideas on machine learning, AI and the challenges they present in terms of scalability, productization and algorithm complexity. "/>
         <meta name="twitter:image" content="https://blog.alexberndt.com/og.jpg"/>
       </Head>
+
+      <div className='center'>
+        Soon to be published! Stay tuned ...
+      </div>
 
       <div className='posts'>
         {posts.map((post, index) => (
@@ -42,6 +46,7 @@ export async function getStaticProps() {
 
   // Get slug and frontmatter from posts
   const posts = files.map((filename) => {
+
     // Create slug
     const slug = filename.replace('.md', '')
 
