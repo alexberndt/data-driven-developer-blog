@@ -14,7 +14,7 @@ body {
 
 p {
   margin: 15px 0;
-  line-height: 1.8;
+  line-height: 1.25;
 }
 
 a {
@@ -43,13 +43,23 @@ header a {
 }
 
 footer {
-  background: rgb(105, 105, 105);
-  color: rgb(141, 141, 141);
-  padding: 45px;
+  text-align: center;
+  background: #2c3e50;
+  color: rgb(71 97 128);
+  padding: 25px;
 }
 
 footer a {
-  color: #fff;
+  color: rgb(71 97 128);
+}
+
+footer a:hover {
+  color: rgb(96, 121, 151);
+}
+
+.footer-text {
+  margin: 15px 0;
+  line-height: 1.0;
 }
 
 .single-post {
